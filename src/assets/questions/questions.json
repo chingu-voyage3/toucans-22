@@ -1,0 +1,43 @@
+{
+  "questions" : [{
+      "id" : "1",
+      "question" : "Where did you go?",
+      "options": {
+        "a" : "Abuja",
+        "b" : "Kano",
+        "c" : "Lagos"
+      },
+
+      "answer":   "a"}
+      ,
+
+      {
+        "id" : "2",
+          "question" : "Whom did you see?",
+          "options": {
+            "a" : "Buhari",
+            "b" : "Aisha",
+            "c" : "Aipoh"
+          },
+
+          "answer":   "a"
+
+        } ,
+
+        {
+          "id" : "3",
+            "question" : "What did they give you?",
+            "options": {
+              "a" : "Money",
+              "b" : "Trouble",
+              "c" : "Influence"
+            },
+
+            "answer":   "b"
+
+          }
+      ]
+
+
+
+}
