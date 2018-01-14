@@ -57,6 +57,7 @@ export default {
   },
 
   calculateAnswers : function(){
+    countCorrect = 0;
     var b = [];
     var questions = this.file.questions;
 

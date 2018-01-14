@@ -1,10 +1,10 @@
 {
   "questions" : [{
       "id" : "1",
-      "question" : "Where did you go?",
+      "question" : "When a client asks you to design a website, what are the first questions you ask?",
       "options": {
         "a" : "Abuja",
-        "b" : "Kano",
+        "b" : "Do you have enough money to pay for this?",
         "c" : "Lagos"
       },
 

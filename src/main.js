@@ -5,6 +5,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import "jquery/dist/jquery.min.js"
+import "popper.js/dist/popper.min.js"
+import "tooltip.js/dist/tooltip.min.js"
+import "~bootstrap/scss/bootstrap"
 import quiz from './assets/quiz.js'
 
 Vue.config.productionTip = false
